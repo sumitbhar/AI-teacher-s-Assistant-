@@ -1,0 +1,5 @@
+{
+  "name": "AI Teacher's Assistant",
+  "description": "An AI-powered tool for CBSE and ICSE teachers to generate lesson plans, quizzes, worksheets, and other educational materials for students in classes 1-12.",
+  "requestFramePermissions": []
+}
